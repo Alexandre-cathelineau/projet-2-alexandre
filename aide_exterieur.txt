@@ -1,0 +1,16 @@
+1-j'ai utilisé l'ia pour la structure du code je ne savais pas comment l'organiser 
+  donc pour commencer char réponse[9] = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '}; mais j'ai fait le tableau tout seul sans aide.
+
+
+2-j'ai utilisé l'ia pour le srand(time(NULL)); je ne savais pas pk il fallait le mettre dans le main mais j'ai pris le code que vous nous aviez donné dans le premier projet pour générer un nombre aléatoire 
+
+3-j'ai utilisé l'ia pour la structure de la fonction gagner après
+
+4- j'ai utilisé l'ia car je n'ai pas pensé à mettre la fonction nul après le tour du joueur je l'avais mis qu'après l'ordinateur ce qui faisait planter le programme
+
+5-et j'ai utilisé l'ia pour le: if (scanf("%d", &position) != 1)
+        			 {
+            				printf("Saisie invalide !\n");
+            				return;
+        			 } 
+car avec le Makefile ça m'a affiché une erreur et je ne comprenais pas pk
